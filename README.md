@@ -1,6 +1,6 @@
 # 👋KOO BON SIK 
 
-![BonSik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![BonSik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsik-koo&show_icons=true&theme=dark)
 
 ------------------------
 # 💪SKills
