@@ -1,6 +1,5 @@
 ### About Me
 - My tech blog is [tistory](https://bonsik.tistory.com/) or [velog](https://velog.io/@rnqhstlr2297)
-- [Dev resume](https://chivalrous-asparagus-831.notion.site/huge-tt-color-0077b6-4248896b7a854481aa3a688247de32f6)
 
 ### Project
 - [SWIP(넥스터즈 23기) - 주간 챌린지 가계부 서비스](https://github.com/Nexters/zzanji-server) (```2023.07 ~ 2023.08```)
